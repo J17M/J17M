@@ -21,4 +21,4 @@ In addition to my studies, I am actively pursuing a career as a **penetration te
 
 ### 🔭 Platforms
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/JM17.png)](https://tryhackme.com/p/JM17)
+Coming soon...
